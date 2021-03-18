@@ -3,7 +3,7 @@ Progressive Image Loader
 
 A Progressive Image loader javascript class. Originally created by Hinderling Volkart AG. With a few tweaks made for my specific needs of a more obsessive asset nullification system.
 
-###Usage:
+### Usage:
 
 ```
     //path, numImages, opts
@@ -27,7 +27,7 @@ A Progressive Image loader javascript class. Originally created by Hinderling Vo
 
 ```
 
-###Useful Methods
+### Useful Methods
 
 You can obviously call any method that is under the `this` name space (`this.whatever()`) but i find these few have been useful for me
 
